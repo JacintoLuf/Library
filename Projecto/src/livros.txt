@@ -1,0 +1,5 @@
+sozinhos os dois;romance;2
+um aventura;aventura;3
+indiana jones;acao;1
+spider-wick;ci-fi;4
+titanic;drama;1
